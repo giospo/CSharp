@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\1 - ETEC 2022\\2 semestre\\2DS_GIOVANNI_CESAR_DS\\DS\\Projetos\\RpgApi\\RpgApi.csproj": {}
+  },
+  "projects": {
+    "C:\\1 - ETEC 2022\\2 semestre\\2DS_GIOVANNI_CESAR_DS\\DS\\Projetos\\RpgApi\\RpgApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\1 - ETEC 2022\\2 semestre\\2DS_GIOVANNI_CESAR_DS\\DS\\Projetos\\RpgApi\\RpgApi.csproj",
+        "projectName": "RpgApi",
+        "projectPath": "C:\\1 - ETEC 2022\\2 semestre\\2DS_GIOVANNI_CESAR_DS\\DS\\Projetos\\RpgApi\\RpgApi.csproj",
+        "packagesPath": "C:\\Users\\gcs_s\\.nuget\\packages\\",
+        "outputPath": "C:\\1 - ETEC 2022\\2 semestre\\2DS_GIOVANNI_CESAR_DS\\DS\\Projetos\\RpgApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gcs_s\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
