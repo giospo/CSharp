@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2J7BvmA0CW+1hIA1fRyLEenFV1bhpezoVcZDsewhkj8Nsz6YY4i1eiMkToeol7FnnCvYbKeVAd8oC4ZcT84qBg==",
+  "dgSpecHash": "gy6BlHfCxawgzb/NEJ+2Iq8wrkt4E05F+K8oosT/fnnXHsu2bpP7DhS1r5o2cbJ38+/KOHrb0haTItYigfahHg==",
   "success": true,
-  "projectFilePath": "C:\\1 - ETEC 2022\\2 semestre\\2DS_GIOVANNI_CESAR_DS\\DS\\Projetos\\RpgMvc\\RpgMvc.csproj",
+  "projectFilePath": "C:\\1 - ETEC 2022\\2 semestre\\2DS_GIOVANNI_CESAR_DS\\DS\\Projetos\\Projetos\\RpgMvc\\RpgMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gcs_s\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\gcs_s\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

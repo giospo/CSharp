@@ -3628,11 +3628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\1 - ETEC 2022\\2 semestre\\2DS_GIOVANNI_CESAR_DS\\DS\\Projetos\\RpgMvc\\RpgMvc.csproj",
+      "projectUniqueName": "C:\\1 - ETEC 2022\\2 semestre\\2DS_GIOVANNI_CESAR_DS\\DS\\Projetos\\Projetos\\RpgMvc\\RpgMvc.csproj",
       "projectName": "RpgMvc",
-      "projectPath": "C:\\1 - ETEC 2022\\2 semestre\\2DS_GIOVANNI_CESAR_DS\\DS\\Projetos\\RpgMvc\\RpgMvc.csproj",
+      "projectPath": "C:\\1 - ETEC 2022\\2 semestre\\2DS_GIOVANNI_CESAR_DS\\DS\\Projetos\\Projetos\\RpgMvc\\RpgMvc.csproj",
       "packagesPath": "C:\\Users\\gcs_s\\.nuget\\packages\\",
-      "outputPath": "C:\\1 - ETEC 2022\\2 semestre\\2DS_GIOVANNI_CESAR_DS\\DS\\Projetos\\RpgMvc\\obj\\",
+      "outputPath": "C:\\1 - ETEC 2022\\2 semestre\\2DS_GIOVANNI_CESAR_DS\\DS\\Projetos\\Projetos\\RpgMvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gcs_s\\AppData\\Roaming\\NuGet\\NuGet.Config"
